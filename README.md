@@ -56,6 +56,7 @@ Usage
 
 Notes
 =====
+28/11/2016: Was failing due to invalid cert on site, as well as receiving a 403 forbidden on one of the pulls. Commented out error-prone sections. Will go back later and fix proper.
 30/03/2015: Created a new repo to remove big wordlist. Users who have originally cloned the previous repo are invited to clone the new one.
   
 	
